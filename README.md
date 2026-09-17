@@ -34,7 +34,9 @@ The system also provides an Admin Mode through an external interrupt. An authori
 
 ## 🧩 System Block Diagram
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-15 at 10 06 09 PM" src="https://github.com/user-attachments/assets/e57ce5b8-a4c4-4505-9be4-d479a2e9c4b0" />
+<img width="1536" height="1024" alt="IMG-20260917-WA0003" src="https://github.com/user-attachments/assets/09b45e78-c3e7-4f12-89ec-8aeeeff8f138" />
+
+
 
 ---
 
